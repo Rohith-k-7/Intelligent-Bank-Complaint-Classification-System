@@ -28,7 +28,7 @@ This system helps financial institutions efficiently route complaints, reduce re
 ## 🧰 Technologies Used
 - Python
 - Natural Language Processing (NLP)
-- Deep Learning (LSTM / CNN)
+- Deep Learning (LSTM)
 - TensorFlow / Keras
 - Pandas & NumPy
 - Scikit-learn
